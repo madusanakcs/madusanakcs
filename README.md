@@ -2,7 +2,8 @@
 
 ### 🚀 About Me
 
-🎓 I am Chamod Shyamal Madusan, currently pursuing a B.Sc.(Hons) in Electronic and Telecommunication Engineering at [University of Moratuwa, Sri Lanka](https://uom.lk/). I’m a highly motivated, confident, and self-directed final-year undergraduate. My interests include Web & App Development, UI/UX Design, Electronics & Telecommunications, Robotics & Automation, Machine Learning & Deep Learning, and Data Science. I'm eager to find a job where I can enhance my knowledge and skills while being productive and contributing to the team. I'm particularly interested in Full Stack Development, Data Analysis, and Business Analysis. I am enthusiastic about learning more in Python, JavaScript, and SQL.
+🎓 I am Chamod Shyamal Madusan, currently pursuing a B.Sc.(Hons) in Electronic and Telecommunication Engineering at [University of Moratuwa, Sri Lanka](https://uom.lk/). With high programming skills and strong mathematical thinking, my interests predominantly lie in systems and high-performance computing, Machine Learning, Generative AI, Video Game Development, and Software Engineering. I am passionate about leveraging cutting-edge technologies to solve complex problems and create innovative solutions.
+
 
 ## 🔗 Explore more about Chamod 🚀
 
